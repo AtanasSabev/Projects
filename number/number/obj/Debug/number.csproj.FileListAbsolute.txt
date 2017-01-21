@@ -1,0 +1,6 @@
+c:\users\atanas\documents\visual studio 2015\Projects\number\number\bin\Debug\number.exe.config
+c:\users\atanas\documents\visual studio 2015\Projects\number\number\bin\Debug\number.exe
+c:\users\atanas\documents\visual studio 2015\Projects\number\number\bin\Debug\number.pdb
+c:\users\atanas\documents\visual studio 2015\Projects\number\number\obj\Debug\number.csprojResolveAssemblyReference.cache
+c:\users\atanas\documents\visual studio 2015\Projects\number\number\obj\Debug\number.exe
+c:\users\atanas\documents\visual studio 2015\Projects\number\number\obj\Debug\number.pdb

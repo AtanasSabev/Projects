@@ -1,0 +1,6 @@
+c:\users\atanas\documents\visual studio 2015\Projects\Apartment\Apartment\bin\Debug\Apartment.exe.config
+c:\users\atanas\documents\visual studio 2015\Projects\Apartment\Apartment\bin\Debug\Apartment.exe
+c:\users\atanas\documents\visual studio 2015\Projects\Apartment\Apartment\bin\Debug\Apartment.pdb
+c:\users\atanas\documents\visual studio 2015\Projects\Apartment\Apartment\obj\Debug\Apartment.csprojResolveAssemblyReference.cache
+c:\users\atanas\documents\visual studio 2015\Projects\Apartment\Apartment\obj\Debug\Apartment.exe
+c:\users\atanas\documents\visual studio 2015\Projects\Apartment\Apartment\obj\Debug\Apartment.pdb

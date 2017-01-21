@@ -1,0 +1,6 @@
+c:\users\atanas\documents\visual studio 2015\Projects\ConsoleBranchSimulator\ConsoleBranchSimulator\bin\Debug\ConsoleBranchSimulator.exe.config
+c:\users\atanas\documents\visual studio 2015\Projects\ConsoleBranchSimulator\ConsoleBranchSimulator\bin\Debug\ConsoleBranchSimulator.exe
+c:\users\atanas\documents\visual studio 2015\Projects\ConsoleBranchSimulator\ConsoleBranchSimulator\bin\Debug\ConsoleBranchSimulator.pdb
+c:\users\atanas\documents\visual studio 2015\Projects\ConsoleBranchSimulator\ConsoleBranchSimulator\obj\Debug\ConsoleBranchSimulator.csprojResolveAssemblyReference.cache
+c:\users\atanas\documents\visual studio 2015\Projects\ConsoleBranchSimulator\ConsoleBranchSimulator\obj\Debug\ConsoleBranchSimulator.exe
+c:\users\atanas\documents\visual studio 2015\Projects\ConsoleBranchSimulator\ConsoleBranchSimulator\obj\Debug\ConsoleBranchSimulator.pdb

@@ -1,0 +1,6 @@
+c:\users\atanas\documents\visual studio 2015\Projects\WorkHours\HotelRoom\bin\Debug\HotelRoom.exe.config
+c:\users\atanas\documents\visual studio 2015\Projects\WorkHours\HotelRoom\bin\Debug\HotelRoom.exe
+c:\users\atanas\documents\visual studio 2015\Projects\WorkHours\HotelRoom\bin\Debug\HotelRoom.pdb
+c:\users\atanas\documents\visual studio 2015\Projects\WorkHours\HotelRoom\obj\Debug\HotelRoom.csprojResolveAssemblyReference.cache
+c:\users\atanas\documents\visual studio 2015\Projects\WorkHours\HotelRoom\obj\Debug\HotelRoom.exe
+c:\users\atanas\documents\visual studio 2015\Projects\WorkHours\HotelRoom\obj\Debug\HotelRoom.pdb

@@ -1,0 +1,6 @@
+c:\users\atanas\documents\visual studio 2015\Projects\alphabet\alphabet\bin\Debug\alphabet.exe.config
+c:\users\atanas\documents\visual studio 2015\Projects\alphabet\alphabet\bin\Debug\alphabet.exe
+c:\users\atanas\documents\visual studio 2015\Projects\alphabet\alphabet\bin\Debug\alphabet.pdb
+c:\users\atanas\documents\visual studio 2015\Projects\alphabet\alphabet\obj\Debug\alphabet.csprojResolveAssemblyReference.cache
+c:\users\atanas\documents\visual studio 2015\Projects\alphabet\alphabet\obj\Debug\alphabet.exe
+c:\users\atanas\documents\visual studio 2015\Projects\alphabet\alphabet\obj\Debug\alphabet.pdb

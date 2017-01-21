@@ -1,0 +1,6 @@
+c:\users\atanas\documents\visual studio 2015\Projects\While cicle\While cicle\bin\Debug\While cicle.exe.config
+c:\users\atanas\documents\visual studio 2015\Projects\While cicle\While cicle\obj\Debug\While cicle.csprojResolveAssemblyReference.cache
+c:\users\atanas\documents\visual studio 2015\Projects\While cicle\While cicle\bin\Debug\While cicle.exe
+c:\users\atanas\documents\visual studio 2015\Projects\While cicle\While cicle\bin\Debug\While cicle.pdb
+c:\users\atanas\documents\visual studio 2015\Projects\While cicle\While cicle\obj\Debug\While cicle.exe
+c:\users\atanas\documents\visual studio 2015\Projects\While cicle\While cicle\obj\Debug\While cicle.pdb

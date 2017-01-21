@@ -1,0 +1,6 @@
+c:\users\atanas\documents\visual studio 2015\Projects\flowerShop\flowerShop\bin\Debug\flowerShop.exe.config
+c:\users\atanas\documents\visual studio 2015\Projects\flowerShop\flowerShop\bin\Debug\flowerShop.exe
+c:\users\atanas\documents\visual studio 2015\Projects\flowerShop\flowerShop\bin\Debug\flowerShop.pdb
+c:\users\atanas\documents\visual studio 2015\Projects\flowerShop\flowerShop\obj\Debug\flowerShop.csprojResolveAssemblyReference.cache
+c:\users\atanas\documents\visual studio 2015\Projects\flowerShop\flowerShop\obj\Debug\flowerShop.exe
+c:\users\atanas\documents\visual studio 2015\Projects\flowerShop\flowerShop\obj\Debug\flowerShop.pdb

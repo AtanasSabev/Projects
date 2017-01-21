@@ -1,0 +1,6 @@
+c:\users\atanas\documents\visual studio 2015\Projects\WorkHours\WorkHours\bin\Debug\WorkHours.exe.config
+c:\users\atanas\documents\visual studio 2015\Projects\WorkHours\WorkHours\bin\Debug\WorkHours.exe
+c:\users\atanas\documents\visual studio 2015\Projects\WorkHours\WorkHours\bin\Debug\WorkHours.pdb
+c:\users\atanas\documents\visual studio 2015\Projects\WorkHours\WorkHours\obj\Debug\WorkHours.csprojResolveAssemblyReference.cache
+c:\users\atanas\documents\visual studio 2015\Projects\WorkHours\WorkHours\obj\Debug\WorkHours.exe
+c:\users\atanas\documents\visual studio 2015\Projects\WorkHours\WorkHours\obj\Debug\WorkHours.pdb

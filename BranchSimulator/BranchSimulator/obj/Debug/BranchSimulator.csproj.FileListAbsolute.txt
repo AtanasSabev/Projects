@@ -1,0 +1,9 @@
+c:\users\atanas\documents\visual studio 2015\Projects\BranchSimulator\BranchSimulator\bin\Debug\BranchSimulator.exe.config
+c:\users\atanas\documents\visual studio 2015\Projects\BranchSimulator\BranchSimulator\bin\Debug\BranchSimulator.exe
+c:\users\atanas\documents\visual studio 2015\Projects\BranchSimulator\BranchSimulator\bin\Debug\BranchSimulator.pdb
+c:\users\atanas\documents\visual studio 2015\Projects\BranchSimulator\BranchSimulator\obj\Debug\BranchSimulator.csprojResolveAssemblyReference.cache
+c:\users\atanas\documents\visual studio 2015\Projects\BranchSimulator\BranchSimulator\obj\Debug\BranchSimulator.Form1.resources
+c:\users\atanas\documents\visual studio 2015\Projects\BranchSimulator\BranchSimulator\obj\Debug\BranchSimulator.Properties.Resources.resources
+c:\users\atanas\documents\visual studio 2015\Projects\BranchSimulator\BranchSimulator\obj\Debug\BranchSimulator.csproj.GenerateResource.Cache
+c:\users\atanas\documents\visual studio 2015\Projects\BranchSimulator\BranchSimulator\obj\Debug\BranchSimulator.exe
+c:\users\atanas\documents\visual studio 2015\Projects\BranchSimulator\BranchSimulator\obj\Debug\BranchSimulator.pdb

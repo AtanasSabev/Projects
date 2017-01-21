@@ -1,0 +1,6 @@
+c:\users\atanas\documents\visual studio 2015\Projects\numbersTo1000\numbersTo1000\bin\Debug\numbersTo1000.exe.config
+c:\users\atanas\documents\visual studio 2015\Projects\numbersTo1000\numbersTo1000\obj\Debug\numbersTo1000.csprojResolveAssemblyReference.cache
+c:\users\atanas\documents\visual studio 2015\Projects\numbersTo1000\numbersTo1000\bin\Debug\numbersTo1000.exe
+c:\users\atanas\documents\visual studio 2015\Projects\numbersTo1000\numbersTo1000\bin\Debug\numbersTo1000.pdb
+c:\users\atanas\documents\visual studio 2015\Projects\numbersTo1000\numbersTo1000\obj\Debug\numbersTo1000.exe
+c:\users\atanas\documents\visual studio 2015\Projects\numbersTo1000\numbersTo1000\obj\Debug\numbersTo1000.pdb

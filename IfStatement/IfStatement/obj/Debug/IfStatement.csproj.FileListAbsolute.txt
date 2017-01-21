@@ -1,0 +1,6 @@
+c:\users\atanas\documents\visual studio 2015\Projects\IfStatement\IfStatement\bin\Debug\IfStatement.exe.config
+c:\users\atanas\documents\visual studio 2015\Projects\IfStatement\IfStatement\bin\Debug\IfStatement.exe
+c:\users\atanas\documents\visual studio 2015\Projects\IfStatement\IfStatement\bin\Debug\IfStatement.pdb
+c:\users\atanas\documents\visual studio 2015\Projects\IfStatement\IfStatement\obj\Debug\IfStatement.exe
+c:\users\atanas\documents\visual studio 2015\Projects\IfStatement\IfStatement\obj\Debug\IfStatement.pdb
+c:\users\atanas\documents\visual studio 2015\Projects\IfStatement\IfStatement\obj\Debug\IfStatement.csprojResolveAssemblyReference.cache

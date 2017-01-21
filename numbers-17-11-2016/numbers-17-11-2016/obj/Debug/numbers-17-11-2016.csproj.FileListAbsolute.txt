@@ -1,0 +1,6 @@
+c:\users\atanas\documents\visual studio 2015\Projects\numbers-17-11-2016\numbers-17-11-2016\bin\Debug\numbers-17-11-2016.exe.config
+c:\users\atanas\documents\visual studio 2015\Projects\numbers-17-11-2016\numbers-17-11-2016\bin\Debug\numbers-17-11-2016.exe
+c:\users\atanas\documents\visual studio 2015\Projects\numbers-17-11-2016\numbers-17-11-2016\bin\Debug\numbers-17-11-2016.pdb
+c:\users\atanas\documents\visual studio 2015\Projects\numbers-17-11-2016\numbers-17-11-2016\obj\Debug\numbers-17-11-2016.csprojResolveAssemblyReference.cache
+c:\users\atanas\documents\visual studio 2015\Projects\numbers-17-11-2016\numbers-17-11-2016\obj\Debug\numbers-17-11-2016.exe
+c:\users\atanas\documents\visual studio 2015\Projects\numbers-17-11-2016\numbers-17-11-2016\obj\Debug\numbers-17-11-2016.pdb

@@ -1,0 +1,6 @@
+c:\users\atanas\documents\visual studio 2015\Projects\distance\distance\bin\Debug\distance.exe.config
+c:\users\atanas\documents\visual studio 2015\Projects\distance\distance\bin\Debug\distance.exe
+c:\users\atanas\documents\visual studio 2015\Projects\distance\distance\bin\Debug\distance.pdb
+c:\users\atanas\documents\visual studio 2015\Projects\distance\distance\obj\Debug\distance.csprojResolveAssemblyReference.cache
+c:\users\atanas\documents\visual studio 2015\Projects\distance\distance\obj\Debug\distance.exe
+c:\users\atanas\documents\visual studio 2015\Projects\distance\distance\obj\Debug\distance.pdb

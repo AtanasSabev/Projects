@@ -1,0 +1,6 @@
+c:\users\atanas\documents\visual studio 2015\Projects\kvartirantki\kvartirantki\bin\Debug\kvartirantki.exe.config
+c:\users\atanas\documents\visual studio 2015\Projects\kvartirantki\kvartirantki\bin\Debug\kvartirantki.exe
+c:\users\atanas\documents\visual studio 2015\Projects\kvartirantki\kvartirantki\bin\Debug\kvartirantki.pdb
+c:\users\atanas\documents\visual studio 2015\Projects\kvartirantki\kvartirantki\obj\Debug\kvartirantki.csprojResolveAssemblyReference.cache
+c:\users\atanas\documents\visual studio 2015\Projects\kvartirantki\kvartirantki\obj\Debug\kvartirantki.exe
+c:\users\atanas\documents\visual studio 2015\Projects\kvartirantki\kvartirantki\obj\Debug\kvartirantki.pdb

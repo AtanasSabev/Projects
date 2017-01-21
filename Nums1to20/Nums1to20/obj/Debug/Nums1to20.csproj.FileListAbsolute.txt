@@ -1,0 +1,6 @@
+c:\users\atanas\documents\visual studio 2015\Projects\Nums1to20\Nums1to20\bin\Debug\Nums1to20.exe.config
+c:\users\atanas\documents\visual studio 2015\Projects\Nums1to20\Nums1to20\bin\Debug\Nums1to20.exe
+c:\users\atanas\documents\visual studio 2015\Projects\Nums1to20\Nums1to20\bin\Debug\Nums1to20.pdb
+c:\users\atanas\documents\visual studio 2015\Projects\Nums1to20\Nums1to20\obj\Debug\Nums1to20.csprojResolveAssemblyReference.cache
+c:\users\atanas\documents\visual studio 2015\Projects\Nums1to20\Nums1to20\obj\Debug\Nums1to20.exe
+c:\users\atanas\documents\visual studio 2015\Projects\Nums1to20\Nums1to20\obj\Debug\Nums1to20.pdb

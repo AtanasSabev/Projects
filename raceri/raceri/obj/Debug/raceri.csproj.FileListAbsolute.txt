@@ -1,0 +1,5 @@
+c:\users\atanas\documents\visual studio 2015\Projects\raceri\raceri\bin\Debug\raceri.exe.config
+c:\users\atanas\documents\visual studio 2015\Projects\raceri\raceri\bin\Debug\raceri.exe
+c:\users\atanas\documents\visual studio 2015\Projects\raceri\raceri\bin\Debug\raceri.pdb
+c:\users\atanas\documents\visual studio 2015\Projects\raceri\raceri\obj\Debug\raceri.exe
+c:\users\atanas\documents\visual studio 2015\Projects\raceri\raceri\obj\Debug\raceri.pdb
