@@ -12,7 +12,6 @@ namespace ConsoleBranchSimulatorVersion2
         {
             Console.WriteLine("Въведи желаната сума");
             double MainSUM = double.Parse(Console.ReadLine());
-
             Console.WriteLine("100 лева");
             int hundredleva = int.Parse(Console.ReadLine());
             int hundretlevatotal = hundredleva * 100;
